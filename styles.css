@@ -236,6 +236,11 @@ html{
   padding: 1rem 3rem;
   text-transform: uppercase;
   border-radius: 3rem;
+  transition: background-color .3s ease;
+}
+
+.content-banner a:hover{
+  background-color: var(--dark-color);
 }
 
 /*** Main Content ***/
@@ -754,6 +759,11 @@ html{
   justify-content: center;
   align-items: center;
   cursor: pointer;
+  transition: transform .3s ease;
+}
+
+.social-icons span:hover{
+  transform: scale(1.1);
 }
 
 .social-icons span i{
@@ -854,7 +864,7 @@ html{
 }
 
 .copyright-link:hover{
-  color: #c8232c;
+  color: #fff;
 }
 
 /*** Media Queries --- 768px ***/
