@@ -11,8 +11,8 @@ Este sitio web representa una cafetería, con un diseño profesional que desarro
 
 ## Incluye
 - Un diseño atractivo que resalta los servicios y productos de la cafetería.
-- Animaciones sutiles que mejoran la experiencia visual.
-- Una estructura bien organizada, con secciones claras y navegables.
+- Efectos sutiles que mejoran la experiencia visual.
+- Una estructura bien organizada, con secciones claras.
 
 ## Estado
 - Completado.
